@@ -4,28 +4,16 @@
   </a>
 </p>
 <h1 align="center">
-  Brevifolia
+  KwareBlog
 </h1>
 
 > 04.01.2020: Repo was updated to use latest changes from [Next 9.3](https://nextjs.org/blog/next-9-3#next-gen-static-site-generation-ssg-support). Data fetching now uses `getStaticProps` & `getStaticPaths`.
 
-![brevifolia-screenshot](public/static/brevifolia-screenshot.jpg)
 
 
 ## Quick Setup
 
-#### _Set-up Locally_
-
-In your terminal, navigate to where you would like this blog to live, then run
-
-```bash
-#clone the repo
-git clone git@github.com:kendallstrautman/brevifolia-nextjs.git
-
-#navigate to the directory
-cd brevifolia-nextjs
-
-#install dependencies & run dev server with yarn
+#install dpendencies & run dev server with yarn
 yarn install
 yarn develop
 
